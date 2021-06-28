@@ -27,7 +27,7 @@
     "modernizr": "^3.9.1",
     "object-fit-images": "^3.2.4",
     "popper.js": "^1.16.1",
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.24.0",
     "sparklines": "^1.2.0",
     "turbolinks": "^5.2.0",
     "vue": "^2.6.11",
